@@ -2,5 +2,5 @@
 
 ## Javaのコンパイル
 ```bash
-javac Greeting.java
+javac -d build Greeting.java
 ```
