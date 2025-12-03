@@ -7,5 +7,5 @@ javac -d build Greeting.java
 
 ## Javaの実行
 ```bash
- ./main.sh world
+java -cp build Greeting world
 ```
